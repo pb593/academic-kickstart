@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Pavel Berkovich</title>
+    <link>http://berkovi.ch/authors/</link>
+      <atom:link href="http://berkovi.ch/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2019 20:21:42 +0000</lastBuildDate>
+    <image>
+      <url>http://berkovi.ch/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>http://berkovi.ch/authors/</link>
+    </image>
+    
+    <item>
+      <title>Eric Perim</title>
+      <link>http://berkovi.ch/authors/eric-perim/</link>
+      <pubDate>Sun, 08 Dec 2019 20:21:42 +0000</pubDate>
+      <guid>http://berkovi.ch/authors/eric-perim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pavel Berkovich</title>
+      <link>http://berkovi.ch/authors/pavel-berkovich/</link>
+      <pubDate>Sun, 08 Dec 2019 20:21:42 +0000</pubDate>
+      <guid>http://berkovi.ch/authors/pavel-berkovich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wessel Brunisma</title>
+      <link>http://berkovi.ch/authors/wessel-brunisma/</link>
+      <pubDate>Sun, 08 Dec 2019 20:21:42 +0000</pubDate>
+      <guid>http://berkovi.ch/authors/wessel-brunisma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://berkovi.ch/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://berkovi.ch/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Machine Learning Researcher at &lt;a href=&#34;http://invenialabs.co.uk/&#34; target=&#34;_blank&#34;&gt;Invenia Labs&lt;/a&gt;, where my role is to study the dynamics of electricity grids using Bayesian statistics.&lt;/p&gt;
+
+&lt;p&gt;My research interests include probabilistic modelling of spatiotemporal data, Gaussian processes, approximate inference and model-based reinforcement learning.&lt;/p&gt;
+
+&lt;p&gt;I hold an MSc in &lt;a href=&#34;http://www.cs.ucl.ac.uk/current_students/specialist_msc_programmes/msc_csml/&#34; target=&#34;_blank&#34;&gt;Computational Statistics and Machine Learning&lt;/a&gt; from the University College London, where my advisor was &lt;a href=&#34;http://www0.cs.ucl.ac.uk/staff/j.shawe-taylor/&#34; target=&#34;_blank&#34;&gt;Professor John Shawe-Taylor&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

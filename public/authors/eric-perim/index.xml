@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Perim | Pavel Berkovich</title>
+    <link>http://berkovi.ch/authors/eric-perim/</link>
+      <atom:link href="http://berkovi.ch/authors/eric-perim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric Perim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2019 20:21:42 +0000</lastBuildDate>
+    <image>
+      <url>http://berkovi.ch/img/icon-192.png</url>
+      <title>Eric Perim</title>
+      <link>http://berkovi.ch/authors/eric-perim/</link>
+    </image>
+    
+    <item>
+      <title>GP-ALPS: Automatic Latent Process Selection for Multi-Output Gaussian Process Models</title>
+      <link>http://berkovi.ch/publication/gp-alps/</link>
+      <pubDate>Sun, 08 Dec 2019 20:21:42 +0000</pubDate>
+      <guid>http://berkovi.ch/publication/gp-alps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
