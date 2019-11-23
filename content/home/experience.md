@@ -18,27 +18,38 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Machine Learning Researcher"
+  company = "Invenia Labs"
+  company_url = "http://invenialabs.co.uk/"
+  location = "Cambridge, UK"
+  date_start = "2019-05-20"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Using multi-output Gaussian process models to explore dynamics of electric grids."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Associate"
+  company = "Morgan Stanley"
+  company_url = "https://www.morganstanley.com/"
+  location = "London, UK"
+  date_start = "2016-08-05"
+  date_end = "2018-08-25"
+  description = """Pricing and predictive risk modelling for European asset-backed securities."""
 
+[[experience]]
+  title = "Summer Analyst"
+  company = "Morgan Stanley"
+  company_url = "https://www.morganstanley.com/"
+  location = "London, UK"
+  date_start = "2015-06-22"
+  date_end = "2015-08-29"
+  
+[[experience]]
+  title = "Systems Research Intern"
+  company = "University of Cambridge Computer Laboratory"
+  company_url = "https://www.cl.cam.ac.uk/"
+  location = "Cambridge, UK"
+  date_start = "2014-06-30"
+  date_end = "2014-08-29" 
+  
+  
 +++

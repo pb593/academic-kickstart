@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Pavel Berkovich
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Machine Learning Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Gaussian Processes, Approximate Inference and Reinforcement Learning. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Gaussian Processes
+- Approximate Inference
+- Reinforcement Learning
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc Computational Statistics and Machine Learning
+    institution: University College London
+    year: 2018 - 2019
+  - course: BA Computer Science
+    institution: University of Cambridge
+    year: 2013 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +42,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:pberkovich1994@gmail.com  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/PavelBerkovich
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=N5-7B4IAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/pb593
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/pavel-berkovich-825b5573/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +72,12 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Machine Learning Researcher at [Invenia Labs](http://invenialabs.co.uk/), where my role is to study the dynamics of electricity grids using Bayesian statistics. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research interests include probabilistic modelling of spatiotemporal data, Gaussian processes, approximate inference and model-based reinforcement learning.
+
+I hold an MSc in [Computational Statistics and Machine Learning](http://www.cs.ucl.ac.uk/current_students/specialist_msc_programmes/msc_csml/) from the University College London, where my advisor was [Professor John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/j.shawe-taylor/).
+
+
+
+
