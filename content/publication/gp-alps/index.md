@@ -39,7 +39,7 @@ featured: true
 url_pdf: https://arxiv.org/pdf/1911.01929v1
 url_code:
 url_dataset:
-url_poster:
+url_poster: https://www.invenia.ca/wp-content/uploads/AABI_Poster_2019.pdf
 url_project:
 url_slides:
 url_source:
